@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+    <LinearLayout
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:background="#FF4040"
+        android:orientation="horizontal" >
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center" >
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="3"
+            android:gravity="center" >
+
+            <TextView
+                android:textColor="#ffffff"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="站点查找" />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="fill_parent"
+            android:layout_weight="1"
+            android:gravity="center" >
+
+           
+        </LinearLayout>
+    </LinearLayout>
+
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="45dp"
+        android:orientation="horizontal">
+        <EditText 
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            android:gravity="center"
+            android:layout_margin="5dp"
+            android:background="@drawable/edit_bg"
+            android:layout_height="fill_parent"
+            android:padding="4dp"
+            android:textSize="12sp"
+            android:hint="输入站点名称"
+            android:id="@+id/key"
+            />
+        <Button 
+            android:textSize="12sp"
+            android:layout_width="50dp"
+            android:layout_height="fill_parent"
+            android:gravity="center"
+            android:id="@+id/cx"
+            android:text="查询"/>
+    </LinearLayout>
+    <ListView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/listView"></ListView>
+</LinearLayout>

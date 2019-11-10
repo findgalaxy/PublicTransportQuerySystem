@@ -1,0 +1,70 @@
+[
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\luxian_des.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\luxian_des.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\user_login.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\user_login.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\user_regist.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\user_regist.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_dialog.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\activity_transit_dialog.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\mycenter.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\mycenter.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_transit_item.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\activity_transit_item.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\luxiansss.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\luxiansss.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_welcome.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\activity_welcome.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\update.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\update.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\ll_item.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\ll_item.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\zhandian_cx.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\zhandian_cx.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_routeplan.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\activity_routeplan.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\activity_busline.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\activity_busline.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\luxian_item.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\luxian_item.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\luxian_list.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\luxian_list.xml"
+    },
+    {
+        "merged": "G:\\work2017\\gongjiao\\build\\intermediates\\res\\merged\\debug\\layout\\zhandian_item.xml",
+        "source": "G:\\work2017\\gongjiao\\res\\layout\\zhandian_item.xml"
+    }
+]
